@@ -1,0 +1,52 @@
+body {
+  background-color: gray;
+
+}
+.navbar-custom {
+  background-color: black;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+.navbar-custom .brand-custom {
+  color: white;
+}
+.custom-header {
+  background-color: black;
+  color: white;
+  margin-top: 0;
+  height: 200px;
+  padding-top: 50px;
+  margin-bottom: 0;
+}
+.col1 {
+  background-color: gray;
+}
+.form {
+  margin-top: 0;
+  padding-top: 10px;
+}
+.custom-img {
+  background-color: gray;
+  border-color: black;
+}
+.col6 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: rgba(0, 0, 0, 0.63);
+  color: white;
+}
+.col-footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+p {
+  text-align: center;
+}
+.table-custom > thead > tr > th {
+  border-bottom: none;
+}
+
+.table-custom > tbody > tr > td, .table-custom > tbody > tr > th, .table-custom > tfoot > tr > td, .table-custom > tfoot > tr > th, .table-custom > thead > tr > td, .table-custom > thead > tr > th {
+  border-top: none;
+}
